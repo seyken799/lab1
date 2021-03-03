@@ -1,3 +1,12 @@
+# zad1
+a = 1
+b = 2
+c = 3.1
+d = 3.2
+e = 4 + 1j
+f = 4 + 2j
+g = "napis"
+h = "napis1"
 
 print(a)
 print(b)
